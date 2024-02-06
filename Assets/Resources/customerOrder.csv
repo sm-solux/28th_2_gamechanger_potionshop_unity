@@ -1,0 +1,163 @@
+﻿num,content,ingredient1,ingredient2,ingredient3,ingredient4,fire,time,a,b,c,d,f,name
+1,치유물약 하나 줘.,waterBerry,,,,3,3,15,10,5,0,-10,치유물약
+2,아웅 나 아파. 다쳤어!,waterBerry,,,,3,3,20,15,10,0,-15,치유물약
+3,내는 쓴 거 못 먹는데이.,waterBerry,sugar,,,3,3,15,10,5,0,-10,치유물약
+4,시원하게 재채기 좀 하고싶다..,waterBerry,blackpepper,,,3,3,20,15,10,0,-15,치유물약
+5,장작을 패다가 손가락을 잘라부렸으..,waterBerry,,,,3,3,20,15,10,0,-15,치유물약
+6,나 호랑이 잡으러 가는데 다친 곳에 바를 약 좀 줘.,waterBerry,,,,3,3,20,15,10,0,-15,치유물약
+7,에취! 덜덜덜…. 콜록!,waterBerry,,,,3,3,20,15,10,0,-15,치유물약
+8,치유물약 하나 주쇼. 칼칼~~한걸로!,waterBerry,redpepper,,,3,3,25,20,15,0,-20,치유물약
+9,아우 귀신이 붙었나 요즘 몸이 아파. 소금 좀 뿌려야겄어..,waterBerry,salt,,,3,3,20,15,10,0,-15,치유물약
+10,재채기 날 정도로 매콤~한 치유 물약 내놔!,waterBerry,blackpepper,redpepper,,3,3,20,15,10,0,-15,치유물약
+11,무적물약 하나 주세요.,waterBerry,aquamarine,,,3,3,30,25,20,0,-20,무적물약
+12,후후후..무적물약과 함께라면 천하를 제패할 수 있어~!!,waterBerry,aquamarine,,,3,3,30,25,20,0,-20,무적물약
+13,지금 몬스터 잡으러 가는데 안 다치게 해주세요..,waterBerry,aquamarine,,,3,3,30,25,20,0,-20,무적물약
+14,음하하!!나는 천하무적이다!(그치만 나는 달달~한 물약이 좋다.),waterBerry,aquamarine,sugar,,3,3,35,30,25,0,-30,무적물약
+15,매우면서도 달달한 무적물약 하나 주쇼!,waterBerry,aquamarine,sugar,redpepper,3,3,35,30,25,0,-30,무적물약
+16,무적 물약 하나요~아 참고로 저는 짭짤한 걸 좋아한답니다?,waterBerry,aquamarine,salt,,3,3,,,,,,무적물약
+17,무적 물약 주세요!근데 저 당뇨 있어요…,waterBerry,aquamarine,,,3,3,,,,,,무적물약
+18,이 세계를 내가 정복하겠어. 무적이 되게 해줘!,waterBerry,aquamarine,,,3,3,,,,,,무적물약
+19,역시 물약은 단짠단짠이지!무적물약 하나 줘유!,waterBerry,aquamarine,sugar,salt,3,3,,,,,,무적물약
+20,저기요!그 물약 여기도 있나요..?그 왜 재채기 하면 무적이 된다는..,waterBerry,aquamarine,blackpepper,,3,3,,,,,,무적물약
+21,야광물약 하나 주쇼!,silverFlame,,,,2,5,,,,,,야광물약
+22,저도 반딧불이가 되어보고 싶어요..달달하게 부탁해요!,silverFlame,sugar,,,2,5,,,,,,야광물약
+23,반짝반짝 작은 별~!,silverFlame,,,,2,5,,,,,,야광물약
+24,난 어둠이 싫어…그치만 맵고 짭짤한 음식은 좋아하지.,silverFlame,redpepper,salt,,2,5,,,,,,야광물약
+25,재채기를 하면 밤에 더 밝게 빛날 수 있대요!!야광물약 주세요!!,silverFlame,blackpepper,,,2,5,,,,,,야광물약
+26,맵고 짠데 끝맛은 달달~~한 야광물약 하나요!,silverFlame,redpepper,salt,sugar,2,5,,,,,,야광물약
+27,야광물약 주세요! 아! 요즘은 단짠단짠이 대세인거 아시죠??,silverFlame,sugar,salt,,2,5,,,,,,야광물약
+28,엄청 매운 야광물약 하나요~후추도 팍팍!부탁해요,silverFlame,redpepper,black pepper,,2,5,,,,,,야광물약
+29,밤이 싫어요…계속 환하게 빛나게 해주세요..,silverFlame,,,,2,5,,,,,,야광물약
+30,짭짤한 야광물약 하나요!,silverFlame,salt,,,2,5,,,,,,야광물약
+31,따끈물약 하나 받을 수 있을까요?,wadadakPepper,,,,1,7,,,,,,따끈물약
+32,칼칼~한 따끈물약 하나 주쇼!,wadadakPepper,redpepper,,,1,7,,,,,,따끈물약
+33,덜덜덜…추울 때 먹으면 좋은 물약 좀 주세요..,wadadakPepper,,,,1,7,,,,,,따끈물약
+34,벌써 겨울이구만..후추 팍팍 넣은 따끈물약 하나!,wadadakPepper,,,,1,7,,,,,,따끈물약
+35,겨울엔 맵고 짭짤한 따끈물약이지!,wadadakPepper,redpepper,salt,,1,7,,,,,,따끈물약
+36,재채기 좀 시원하게 할 수 있게 매콤한 따끈물약 하나!,wadadakPepper,blackpepper,redpepper,,1,7,,,,,,따끈물약
+37,겨울에 마실만한 달고 짭짤한 물약 하나요!매콤한 맛도 나면 좋겠어요!,wadadakPepper,sugar,salt,redpepper,1,7,,,,,,따끈물약
+38,내일 눈보라를 뚫고 몬스터를 잡으러 가야하오. 따끈물약 하나 주시오.,wadadakPepper,,,,1,7,,,,,,따끈물약
+39,따끈물약 달달하게 만든 거 있을까요?,wadadakPepper,sugar,,,1,7,,,,,,따끈물약
+40,집에 난방기가 고장났어요…몸을 따뜻하게 할 수 있는 물약 주세요..,wadadakPepper,,,,1,7,,,,,,따끈물약
+41,활활물약 주세요!,wadadakPepper,ruby,,,1,7,,,,,,활활물약
+42,여기가 활활물약 매콤하게 잘 끓이는 곳이라면서요?,wadadakPepper,ruby,redpepper,,1,7,,,,,,활활물약
+43,산으로 사냥을 가기로 했어요.불 피울 수 있는 약물 주세요!,wadadakPepper,ruby,,,1,7,,,,,,활활물약
+44,달콤하고 짭쪼롬한 향 나는 활활물약 하나 주쇼!,wadadakPepper,ruby,salt,sugar,1,7,,,,,,활활물약
+45,장례를 치르려고 해요..화장할 수 있게 활활물약 하나 주세요..,wadadakPepper,ruby,,,1,7,,,,,,활활물약
+46,재채기 할 정도로 강한 활활물약 하나요!,wadadakPepper,ruby,blackpepper,,1,7,,,,,,활활물약
+47,엣취!!방에 불을 좀 피워야겠어요..,wadadakPepper,ruby,,,1,7,,,,,,활활물약
+48,오늘 밤에 캠프파이어를 해요!!달달한 향이 나게 만들어주세요!,wadadakPepper,ruby,sugar,,1,7,,,,,,활활물약
+49,숲을 태워버리면 몬스터를 더 많이 없앨 수 있을 거 같소!,wadadakPepper,ruby,,,1,7,,,,,,활활물약
+50,활활물약 짠 맛으로 하나요~,wadadakPepper,ruby,salt,,1,7,,,,,,활활물약
+51,마비물약 하나 주쇼!!,shadowHerb,,,,2,3,,,,,,마비물약
+52,몬스터는 마비시켜서 잡아야 제맛이지!후추 팍팍 넣어줘요!,shadowHerb,blackpepper,,,2,3,,,,,,마비물약
+53,우리 아들이 상처를 꿰매야 해요..달달한 마비물약 주세요..,shadowHerb,sugar,,,2,3,,,,,,마비물약
+54,자고로 마비물약은 맵고 짭짤해야 하는 법!,shadowHerb,redpepper,salt,,2,3,,,,,,마비물약
+55,맵고 짜면서도 달달한 마비물약 하나요!,shadowHerb,redpepper,salt,sugar,2,3,,,,,,마비물약
+56,내 아버지의 원수!!마비시켜서 복수하겠다!!,shadowHerb,,,,2,3,,,,,,마비물약
+57,그 사람을 마비시켜서 시원하게 재채기 못하게 하고 싶어요. 아주 고통스럽겠죠?,shadowHerb,blackpepper,,,2,3,,,,,,마비물약
+58,내일 몬스터 대사냥을 나가요. 마비물약 주세요.,shadowHerb,,,,2,3,,,,,,마비물약
+59,요즘 생존을 위해서는 마비물약이 필수래요!,shadowHerb,,,,2,3,,,,,,마비물약
+60,매운 향에 취해 마비될 수 있는 물약이 있다면서요?,shadowHerb,redpepper,,,2,3,,,,,,마비물약
+61,여기 사향물약 파나요?,waterBerry,shadowHerb,,,3,3,,,,,,사향물약
+62,후후..사향물약만 있으면 내가 바로 사냥왕이지!!,waterBerry,shadowHerb,,,3,3,,,,,,사향물약
+63,뭔가 몬스터들은 달달한 향의 사향물약을 더 좋아하는 듯해..,waterBerry,shadowHerb,sugar,,3,3,,,,,,사향물약
+64,멍청한 몬스터들!!그 물약만 있으면 나를 졸졸 쫓아오더군.,waterBerry,shadowHerb,,,3,3,,,,,,사향물약
+65,단짠단짠 사향물약 하나요!,waterBerry,shadowHerb,sugar,salt,3,3,,,,,,사향물약
+66,아저씨!!몬스터가 저를 따라오게 해주세요!저도 잡아보고 싶다구요!,waterBerry,shadowHerb,,,3,3,,,,,,사향물약
+67,몬스터가 재채기하면서 날 따라오는게 웃기더군.사향물약 하나 주시오.,waterBerry,shadowHerb,blackpepper,,3,3,,,,,,사향물약
+68,매운 향이 확 나는 사향물약 하나 주세요.,waterBerry,shadowHerb,redpepper,,3,3,,,,,,사향물약
+69,정말 그 물약만 있으면 몬스터가 저를 따라오나요..??,waterBerry,shadowHerb,,,3,3,,,,,,사향물약
+70,소금 넣고 끓인 사향물약 하나!,waterBerry,shadowHerb,salt,,3,3,,,,,,사향물약
+71,달달~한 기절물약 하나요!,shadowHerb,obsidian,sugar,,2,5,,,,,,기절물약
+72,엄마 몰래 사냥을 다녀오려고 해요!기절물약 하나 주세요!,shadowHerb,obsidian,,,2,5,,,,,,기절물약
+73,요즘 국경지대의 감시가 심해서 밀수가 쉽지 않군..경비를 잠깐 기절시킬 수 있을까?,shadowHerb,obsidian,,,2,5,,,,,,기절물약
+74,매운 향이 나는 기절물약 하나요!후추도 넣어주세요!,shadowHerb,obsidian,redpepper,blackpepper,2,5,,,,,,기절물약
+75,요즘 불면증이 너무 심해졌어…기절해서라도 자고 싶어..,shadowHerb,obsidian,,,2,5,,,,,,기절물약
+76,나는 달고 짠 걸 좋아해…아주 기절초풍!!!,shadowHerb,obsidian,sugar,salt,2,5,,,,,,기절물약
+77,여기 사람을 기절시키는 약도 판다면서요??하나 주세요!,shadowHerb,obsidian,,,2,5,,,,,,기절물약
+78,기절물약 하나요.후추도 넣고 끓여주세요!,shadowHerb,obsidian,blackpepper,,2,5,,,,,,기절물약
+79,짭쪼롬한 기절물약 하나!,shadowHerb,obsidian,salt,,2,5,,,,,,기절물약
+80,모두가 날 보면 기절하게 하고 싶어..,shadowHerb,obsidian,,,2,5,,,,,,기절물약
+81,이제 꿈물약 없이는 못 살아…그렇게라도 그 사람을 보고싶어..,shadowHerb,lightMush,,,2,5,,,,,,꿈물약
+82,꿈물약이 그렇게 기분이 좋다던데…저는 달달한 맛으로 주세요!,shadowHerb,lightMush,sugar,,2,5,,,,,,꿈물약
+83,몬스터들을 혼란스럽게 하면 더 잘 잡을 수 있지!꿈물약 하나!,shadowHerb,lightMush,,,2,5,,,,,,꿈물약
+84,후추 팍팍 넣은 꿈물약 하나요~,shadowHerb,lightMush,blackpepper,,2,5,,,,,,꿈물약
+85,하…꿈물약에 중독될 줄이야…,shadowHerb,lightMush,,,2,5,,,,,,꿈물약
+86,매우면서도 달콤한 꿈물약 하나 주쇼!,shadowHerb,lightMush,redpepper,sugar,2,5,,,,,,꿈물약
+87,경비를 피해 국경을 넘으려면 꿈물약이 필요해..,shadowHerb,lightMush,,,2,5,,,,,,꿈물약
+88,꿈물약만 있으면 몬스터 잡기는 식은죽 먹기지!,shadowHerb,lightMush,,,2,5,,,,,,꿈물약
+89,흐음…오늘은 맵고 짠 꿈물약이 땡기는구만!,shadowHerb,lightMush,redpepper,salt,2,5,,,,,,꿈물약
+90,꿈물약 하나요~!,shadowHerb,lightMush,,,2,5,,,,,,꿈물약
+91,환영물약 하나!,lightMush,,,,1,5,,,,,,환영물약
+92,여기 환영물약이 그렇게 핫하다면서요?,lightMush,,,,1,5,,,,,,환영물약
+93,난 자극적인게 좋아. 맵고 짠 환영물약 하나!,lightMush,redpepper,salt,,1,5,,,,,,환영물약
+94,조미료 잔뜩 넣은 환영물약 하나요. 아!단맛은 싫어요.,lightMush,redpepper,blackpepper,salt,1,5,,,,,,환영물약
+95,환영물약만 있으면 나는 최고의 사냥꾼이 될 수 있어!,lightMush,,,,1,5,,,,,,환영물약
+96,환영으로 몬스터들을 꾀어내야겠어!후추도 넣어줘!,lightMush,blackpepper,,,1,5,,,,,,환영물약
+97,달콤한 환영물약이요~,lightMush,sugar,,,1,5,,,,,,환영물약
+98,지금 사냥하러 가는 길이오.환영물약 하나 빨리 주시오.,lightMush,,,,1,5,,,,,,환영물약
+99,나는 짠 맛이 좋아!환영물약 하나 주세요!,lightMush,salt,,,1,5,,,,,,환영물약
+100,요즘 몬스터 잡으려면 환영물약은 필수야.,lightMush,,,,1,5,,,,,,환영물약
+101,히히.투명물약으로 부모님을 깜짝 놀래켜드려야지!,lightMush,yellowdia,,,1,5,,,,,,투명물약
+102,숲에 가서 약초를 캐와야 하는데 몬스터가 무서워..투명물약 좀 줘..,lightMush,yellowdia,,,1,5,,,,,,투명물약
+103,짠 건 딱 질색이야! 달달한 투명물약 줘!,lightMush,yellowdia,sugar,,1,5,,,,,,투명물약
+104,진짜 투명해지는 물약을 팔아요??,lightMush,yellowdia,,,1,5,,,,,,투명물약
+105,맵고 짠 투명물약 하나요.,lightMush,yellowdia,redpepper,salt,1,5,,,,,,투명물약
+106,제가 투명해졌는데 재채기를 하면 사람들이 놀라겠죠??,lightMush,yellowdia,blackpepper,,1,5,,,,,,투명물약
+107,투명물약만 있으면 안 다치고 사냥을 할 수 있지!,lightMush,yellowdia,,,1,5,,,,,,투명물약
+108,매우면서도 달달한 투명물약 하나 주쇼!,lightMush,yellowdia,redpepper,sugar,1,5,,,,,,투명물약
+109,짭짤한 투명물약 하나요!,lightMush,yellowdia,salt,,1,5,,,,,,투명물약
+110,아무에게도…안 보일 수 있는…물약 있나요..?,lightMush,yellowdia,,,1,5,,,,,,투명물약
+111,여기는…무효화 물약 파나요..??,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+112,내일 대규모 사냥을 나가는데 무효화 물약이 꼭 필요해요.,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+113,무효화물약을 판다는 소문이 있던데 진짠가요?,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+114,무효화물약만 있으면 나는 최강이지!,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+115,하..몬스터에게 죽고싶지 않아..무효화물약을…제발..,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+116,우리 딸이 기절했어요..빨리 무효화물약 좀 주세요..,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+117,오늘은 무효화물약 살 수 있나요?,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+118,도대체 무효화물약은 어떻게 만드는거요?,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+119,마비된 내 동료를 살리려면 무효화물약이 꼭 필요해요.,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+120,내가 무효화물약 사려고 여기까지 오다니!,waterBerry,wadadakPepper,shadowHerb,lightMush,2,5,,,,,,무효화물약
+121,어후 더워도 너무 덥구만!,caveLotus,,,,3,7,,,,,,시원물약
+122,달콤한 시원물약만 있으면 이번 여름은 무사히 넘기겠군!,caveLotus,sugar,,,3,7,,,,,,시원물약
+123,맵고 짠 시원물약 하나!,caveLotus,redpepper,salt,,3,7,,,,,,시원물약
+124,재채기 좀 시원하게 하고 싶다!!시원물약 하나 주세요!,caveLotus,blackpepper,,,3,7,,,,,,시원물약
+125,몬스터를 사냥하다 보면 체온이 너무 올라가.더워서 어지럽더군.,caveLotus,,,,3,7,,,,,,시원물약
+126,달고 짠 시원물약 하나 주쇼!,caveLotus,sugar,salt,,3,7,,,,,,시원물약
+127,시원물약 하나요!소금빼고 조미료 다 넣어주세요!,caveLotus,sugar,redpepper,blackpepper,3,7,,,,,,시원물약
+128,이 더위를 이기려면 부채질로는 부족해..,caveLotus,,,,3,7,,,,,,시원물약
+129,매콤~한 시원물약 주세요!,caveLotus,redpepper,,,3,7,,,,,,시원물약
+130,사냥이 안되면~시원물약!,caveLotus,,,,3,7,,,,,,시원물약
+131,꽁꽁물약 하나요~!,caveLotus,aquamarine,,,3,7,,,,,,꽁꽁물약
+132,스케이트를 타고 싶은데…혹시 바닥을 얼릴 수 있는 물약도 있나요?,caveLotus,aquamarine,,,3,7,,,,,,꽁꽁물약
+133,나는 단 게 좋아! 꽁꽁물약 주세요!,caveLotus,aquamarine,sugar,,3,7,,,,,,꽁꽁물약
+134,맵고 짠 꽁꽁물약 하나! 자극적인 맛이 최고지!,caveLotus,aquamarine,redpepper,salt,3,7,,,,,,꽁꽁물약
+135,이번 여름은 얼음없이 못 버티겠어..,caveLotus,aquamarine,,,3,7,,,,,,꽁꽁물약
+136,몬스터는 얼려서 사냥해야 가장 안전하지!,caveLotus,aquamarine,,,3,7,,,,,,꽁꽁물약
+137,후추향이 진동하는 꽁꽁물약 하나 주쇼!,caveLotus,aquamarine,blackpepper,,3,7,,,,,,꽁꽁물약
+138,얼음 조각상을 만들어보고 싶어요…이 여름에 얼음을 만들 수 있을까요?,caveLotus,aquamarine,,,3,7,,,,,,꽁꽁물약
+139,단짠단짠 꽁꽁물약  하나주세요!,caveLotus,aquamarine,sugar,salt,3,7,,,,,,꽁꽁물약
+140,우리집 냉동고가 고장나브렸어…꽁꽁물약 빨리 주쇼!,caveLotus,aquamarine,,,3,7,,,,,,꽁꽁물약
+141,부모님 몰래 사냥을 나가야 해요..! 캄캄물약 하나 주세요!,caveLotus,obsidian,,,3,7,,,,,,캄캄물약
+142,매운 건 싫어! 달콤한 캄캄물약 하나!,caveLotus,obsidian,sugar,,3,7,,,,,,캄캄물약
+143,내일 숲을 지나가야 하는데 우리 애가 겁이 많아요..캄캄물약 하나 주세요..,caveLotus,obsidian,,,3,7,,,,,,캄캄물약
+145,매운 향이 가득한 캄캄물약 하나!,caveLotus,obsidian,redpepper,,3,7,,,,,,캄캄물약
+146,몬스터들이 앞을 못 보게 하면 나를 못 공격하겠지??,caveLotus,obsidian,,,3,7,,,,,,캄캄물약
+147,후추 팍팍 넣은 캄캄물약 하나!,caveLotus,obsidian,blackpepper,,3,7,,,,,,캄캄물약
+148,캄캄물약으로 다른 사람들이 앞을 못 보게 하면 내가 몬스터를 다 잡을 수 있어!,caveLotus,obsidian,,,3,7,,,,,,캄캄물약
+149,소금 넣고 우린 캄캄물약 하나유! 끝맛은 달달했음 좋겠어유!,caveLotus,obsidian,salt,sugar,3,7,,,,,,캄캄물약
+150,밝은 곳에서도 잠을 잘 자고 싶어…눈 앞이 캄캄하게 해줘..,caveLotus,obsidian,,,3,7,,,,,,캄캄물약
+151,즉사물약 하나 주세요..,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+152,내 딸을 죽인 자를 드디어 찾았소…부디 내가 그 사람을 죽일 수 있게 도와주시오..,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+153,손 안대고 몬스터를 죽일 수 있나요??,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+154,오라! 달콤한 죽음이여.,caveLotus,shadowHerb,obsidian,sugar,2,5,,,,,,즉사물약
+155,더 이상 제 남편이 아프지 않았으면 좋겠어요…편히 가게 해주세요…흑흑,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+156,즉사물약만 있으면 내가 사냥왕!!,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+157,즉사물약 하나! 후추향이 나면 다른 몬스터들이 무서워서 도망가겠지? 후후..,caveLotus,shadowHerb,obsidian,blackpepper,2,5,,,,,,즉사물약
+158,매운 향이 진동하는 즉사물약 하나!,caveLotus,shadowHerb,obsidian,redpepper,2,5,,,,,,즉사물약
+159,요즘은 즉사물약 구하기가 어렵구만…위험해서 그런가?,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+160,내 아버지의 원수!! 그 자를 죽여버리겠어!!!,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
+161,,waterBerry,,,,3,3,,,,,,치유물약
+162,,silverFlame,wadadakPepper,ruby,,1,7,,,,,,폭발물약
+163,,caveLotus,shadowHerb,obsidian,,2,5,,,,,,즉사물약
